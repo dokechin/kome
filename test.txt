@@ -1,0 +1,3 @@
+kome/data/13.jpg
+kome/data/4.jpg
+kome/data/6.jpg

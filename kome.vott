@@ -1,0 +1,356 @@
+{
+    "name": "kome",
+    "securityToken": "kome Token",
+    "sourceConnection": {
+        "name": "data",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNmJjMmFmNjkxNDEwZTI0NDBlZmM5YjQxMWY1OTBmNGU1ZWIyMGIxZDUzYmU2YWI5ZjhiMzFjODgzYWQ5ZmUxMjM0ZjJmMWJhYzEyNzNjN2JjMzUyYWVjMDhiYTNkZGQzIiwiaXYiOiI5OWEwZGQ3MTU2YzMyNmM0YzFmNzgxMjdkMTMyZGE0ZWI2NmVmY2UyYmRlNDI4MDQifQ=="
+        },
+        "id": "yKHhK5HN8"
+    },
+    "targetConnection": {
+        "name": "kome",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMWE3YTA1YWUzNTc3MGMwNzRiOWM4YTZjYjE2MDMzMTdmZDk2YWY1MjA4MDEyZDM0NDBiOTU4MWMxMzg2NmQ1ZWU1OGI0ODk0NzU2NGNkZjY3OTJlMGIxNWE2ZGQ1ZDY1IiwiaXYiOiI0ZDk2MWI0MmIxZjRkODc4YWI0YjBlYTViNjdmYzc4ZjU1Y2I1MWQyYWFhMmM1ZjUifQ=="
+        },
+        "id": "07mhxHP9Z"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "rice",
+            "color": "#5db300"
+        },
+        {
+            "name": "broken rice",
+            "color": "#e81123"
+        }
+    ],
+    "version": "2.0.0",
+    "exportFormat": {
+        "providerType": "tensorFlowPascalVOC",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZTliYzNlMDlkNTA4NTM4Y2ZlYTI5ZWQxNjJhMGU4NWJhNWE2YTBkN2M3NDljYmE5NWI0MDQ1OWY1NWQyNjMwY2ZkMjVmOTk5YjE2YTBmNzI4MDlkM2I5YTU5N2U0ZGFkZDUxYjBjMDVmYmQ4MDE1OTk3ZGIxMmQ3ZDAxZmI4MTViMDc0Mzg5MDk0Yjg0NDU1ZWUzZTQxZmNkM2RlMTM4YSIsIml2IjoiOTQyYmRiZGZiNDIzYzgwZWI3ZDIxNzQxYjA2MDNlMzFiYzFkNGUxZjJkNTZhNDIxIn0="
+        }
+    },
+    "id": "c77q3EGPo",
+    "lastVisitedAssetId": "316bda73328ecb75b8a7988bf0d31beb",
+    "assets": {
+        "c5899568bf21916eec7d091ed3ba66b1": {
+            "format": "jpg",
+            "id": "c5899568bf21916eec7d091ed3ba66b1",
+            "name": "1.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/1.jpg",
+            "size": {
+                "width": 590,
+                "height": 590
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e2aabd391825e00f3b175f56a85a8818": {
+            "format": "jpg",
+            "id": "e2aabd391825e00f3b175f56a85a8818",
+            "name": "10.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/10.jpg",
+            "size": {
+                "width": 590,
+                "height": 590
+            },
+            "state": 2,
+            "type": 1
+        },
+        "06bf735f8515f1f10b887736dbfd8b79": {
+            "format": "jpg",
+            "id": "06bf735f8515f1f10b887736dbfd8b79",
+            "name": "13.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/13.jpg",
+            "size": {
+                "width": 590,
+                "height": 590
+            },
+            "state": 2,
+            "type": 1
+        },
+        "195c411eb6558be08b57d1f08fcaa4ff": {
+            "format": "jpg",
+            "id": "195c411eb6558be08b57d1f08fcaa4ff",
+            "name": "14.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/14.jpg",
+            "size": {
+                "width": 590,
+                "height": 590
+            },
+            "state": 1,
+            "type": 1
+        },
+        "75ed041c422a8feff28fc6e98cfe2381": {
+            "format": "jpg",
+            "id": "75ed041c422a8feff28fc6e98cfe2381",
+            "name": "15.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/15.jpg",
+            "size": {
+                "width": 590,
+                "height": 590
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fdaad79e0369cd47986055004c5b615e": {
+            "format": "jpg",
+            "id": "fdaad79e0369cd47986055004c5b615e",
+            "name": "16.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/16.jpg",
+            "size": {
+                "width": 590,
+                "height": 590
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ffdee9d13f7965d141819b48ec4aa38e": {
+            "format": "jpg",
+            "id": "ffdee9d13f7965d141819b48ec4aa38e",
+            "name": "17.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/17.jpg",
+            "size": {
+                "width": 590,
+                "height": 590
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a61e585b80cc9c0672a3b02a04bbc0be": {
+            "format": "jpg",
+            "id": "a61e585b80cc9c0672a3b02a04bbc0be",
+            "name": "18.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/18.jpg",
+            "size": {
+                "width": 590,
+                "height": 590
+            },
+            "state": 2,
+            "type": 1
+        },
+        "984bef999f130f4452343e0486727d90": {
+            "format": "jpg",
+            "id": "984bef999f130f4452343e0486727d90",
+            "name": "19.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/19.jpg",
+            "size": {
+                "width": 590,
+                "height": 590
+            },
+            "state": 2,
+            "type": 1
+        },
+        "316bda73328ecb75b8a7988bf0d31beb": {
+            "format": "jpg",
+            "id": "316bda73328ecb75b8a7988bf0d31beb",
+            "name": "2.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/2.jpg",
+            "size": {
+                "width": 590,
+                "height": 590
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0caca38bca521a2a776048b1e93b8b27": {
+            "format": "jpg",
+            "id": "0caca38bca521a2a776048b1e93b8b27",
+            "name": "11.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/11.jpg",
+            "size": {
+                "width": 590,
+                "height": 590
+            },
+            "state": 2,
+            "type": 1
+        },
+        "109f3415df679709de2550572f18f6d5": {
+            "format": "jpg",
+            "id": "109f3415df679709de2550572f18f6d5",
+            "name": "12.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/12.jpg",
+            "size": {
+                "width": 590,
+                "height": 590
+            },
+            "state": 2,
+            "type": 1
+        },
+        "825057a67f5a30f5097ff39e2606c35e": {
+            "format": "jpg",
+            "id": "825057a67f5a30f5097ff39e2606c35e",
+            "name": "20.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/20.jpg",
+            "size": {
+                "width": 590,
+                "height": 590
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1058074f10563181c72b063c0fe7cdc0": {
+            "format": "jpg",
+            "id": "1058074f10563181c72b063c0fe7cdc0",
+            "name": "9.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/9.jpg",
+            "size": {
+                "width": 590,
+                "height": 590
+            },
+            "state": 2,
+            "type": 1
+        },
+        "22a28e1c494aac9af5ff59f95dfc8be1": {
+            "format": "jpg",
+            "id": "22a28e1c494aac9af5ff59f95dfc8be1",
+            "name": "8.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/8.jpg",
+            "size": {
+                "width": 590,
+                "height": 590
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4368762ea00a4cd3f2d71c458d07db8a": {
+            "format": "jpg",
+            "id": "4368762ea00a4cd3f2d71c458d07db8a",
+            "name": "7.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/7.jpg",
+            "size": {
+                "width": 590,
+                "height": 590
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d95cd7bfc8cee6ea6f4879f2ee974c60": {
+            "format": "jpg",
+            "id": "d95cd7bfc8cee6ea6f4879f2ee974c60",
+            "name": "6.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/6.jpg",
+            "size": {
+                "width": 590,
+                "height": 590
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f3b675bf1338cf063d7fe301cdc8df75": {
+            "format": "jpg",
+            "id": "f3b675bf1338cf063d7fe301cdc8df75",
+            "name": "26.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/26.jpg",
+            "size": {
+                "width": 590,
+                "height": 590
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8d9f9aaada6298dcbb1ffe5f234b00f8": {
+            "format": "jpg",
+            "id": "8d9f9aaada6298dcbb1ffe5f234b00f8",
+            "name": "25.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/25.jpg",
+            "size": {
+                "width": 590,
+                "height": 590
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1a6233e6ed375f90cd84b10adce87208": {
+            "format": "jpg",
+            "id": "1a6233e6ed375f90cd84b10adce87208",
+            "name": "21.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/21.jpg",
+            "size": {
+                "width": 590,
+                "height": 590
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4a68e3012377335a274d42bcfd13c174": {
+            "format": "jpg",
+            "id": "4a68e3012377335a274d42bcfd13c174",
+            "name": "24.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/24.jpg",
+            "size": {
+                "width": 590,
+                "height": 590
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6e125fd41e2c38130f33250a9c731ecc": {
+            "format": "jpg",
+            "id": "6e125fd41e2c38130f33250a9c731ecc",
+            "name": "23.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/23.jpg",
+            "size": {
+                "width": 590,
+                "height": 590
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4e57bb92775c685a6bb58d77650205e3": {
+            "format": "jpg",
+            "id": "4e57bb92775c685a6bb58d77650205e3",
+            "name": "3.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/3.jpg",
+            "size": {
+                "width": 590,
+                "height": 590
+            },
+            "state": 2,
+            "type": 1
+        },
+        "604d78734b212d100635a1d6191b4709": {
+            "format": "jpg",
+            "id": "604d78734b212d100635a1d6191b4709",
+            "name": "4.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/4.jpg",
+            "size": {
+                "width": 590,
+                "height": 590
+            },
+            "state": 2,
+            "type": 1
+        },
+        "617ca1bbf334f6c4661cad586ddfdab5": {
+            "format": "jpg",
+            "id": "617ca1bbf334f6c4661cad586ddfdab5",
+            "name": "5.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/5.jpg",
+            "size": {
+                "width": 590,
+                "height": 590
+            },
+            "state": 2,
+            "type": 1
+        },
+        "81b8b4a164f9c3bed843e9f7c413de23": {
+            "format": "jpg",
+            "id": "81b8b4a164f9c3bed843e9f7c413de23",
+            "name": "22.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/22.jpg",
+            "size": {
+                "width": 590,
+                "height": 590
+            },
+            "state": 2,
+            "type": 1
+        }
+    }
+}

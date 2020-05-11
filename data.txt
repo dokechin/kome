@@ -1,0 +1,5 @@
+classes = 2
+train = kome/train.txt
+valid = kome/test.txt
+names = kome/names.txt
+backup = /content/Drive 
