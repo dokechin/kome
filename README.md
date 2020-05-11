@@ -41,8 +41,8 @@ drive.mount('/content/gdrive')
 pwd
 ls -la
 cd /content/darknet
-rm -rf endo_kun
-git clone https://github.com/dokechin/endo_kun
-mkdir endo_kun/backup
-./darknet detector train endo_kun/data.txt endo_kun/yolov3-tiny-train.cfg
+rm -rf kome 
+git clone https://github.com/dokechin/kome
+mkdir kome/backup
+./darknet detector train kome/data.txt kome/yolov3-tiny-train.cfg
 ```
