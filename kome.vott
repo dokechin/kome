@@ -5,7 +5,7 @@
         "name": "data",
         "providerType": "localFileSystemProxy",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNmJjMmFmNjkxNDEwZTI0NDBlZmM5YjQxMWY1OTBmNGU1ZWIyMGIxZDUzYmU2YWI5ZjhiMzFjODgzYWQ5ZmUxMjM0ZjJmMWJhYzEyNzNjN2JjMzUyYWVjMDhiYTNkZGQzIiwiaXYiOiI5OWEwZGQ3MTU2YzMyNmM0YzFmNzgxMjdkMTMyZGE0ZWI2NmVmY2UyYmRlNDI4MDQifQ=="
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMzQyMjI4ZWQ4ZmY2NWI1N2IyODdiODU3ZTI2NGM1ZDMzNTRiNjU0MzFjN2M0ODY1OTRmZjRjOTM5OWEyYzQ1NGM2NmM2ZjgwNDg1ZmRhMmYwZWQ3ODUwZmI1Y2E2ZmZmIiwiaXYiOiIyYjMwMjJkOTVhZTVhZTBiNWJkNGVlNDVkNDAwMzBmYTQxMDVhYmI0Y2ZjOGE0MGMifQ=="
         },
         "id": "yKHhK5HN8"
     },
@@ -13,7 +13,7 @@
         "name": "kome",
         "providerType": "localFileSystemProxy",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMWE3YTA1YWUzNTc3MGMwNzRiOWM4YTZjYjE2MDMzMTdmZDk2YWY1MjA4MDEyZDM0NDBiOTU4MWMxMzg2NmQ1ZWU1OGI0ODk0NzU2NGNkZjY3OTJlMGIxNWE2ZGQ1ZDY1IiwiaXYiOiI0ZDk2MWI0MmIxZjRkODc4YWI0YjBlYTViNjdmYzc4ZjU1Y2I1MWQyYWFhMmM1ZjUifQ=="
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiODA1OGVlYzI4OWY5OGVlNDkxYmRkNjFkNmM1MmVmNDRhNmVkZGQxYzA1YTE2ZWU5YmJlODRiYzhmZWE5YzI3ZWE1ODdhZmFjYzllZGEyOWI1NTRiNDczMDlhM2QxOWZlIiwiaXYiOiI5Nzc4MDY1M2MzNDViOWRhYzhiMzkyZTBiYTBiOTVlNGJjYzhhYjE0MzVlYmRhNjUifQ=="
         },
         "id": "07mhxHP9Z"
     },
@@ -26,7 +26,7 @@
             "color": "#5db300"
         },
         {
-            "name": "broken rice",
+            "name": "box",
             "color": "#e81123"
         }
     ],
@@ -34,24 +34,12 @@
     "exportFormat": {
         "providerType": "tensorFlowPascalVOC",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZTliYzNlMDlkNTA4NTM4Y2ZlYTI5ZWQxNjJhMGU4NWJhNWE2YTBkN2M3NDljYmE5NWI0MDQ1OWY1NWQyNjMwY2ZkMjVmOTk5YjE2YTBmNzI4MDlkM2I5YTU5N2U0ZGFkZDUxYjBjMDVmYmQ4MDE1OTk3ZGIxMmQ3ZDAxZmI4MTViMDc0Mzg5MDk0Yjg0NDU1ZWUzZTQxZmNkM2RlMTM4YSIsIml2IjoiOTQyYmRiZGZiNDIzYzgwZWI3ZDIxNzQxYjA2MDNlMzFiYzFkNGUxZjJkNTZhNDIxIn0="
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMmI5MTQzZWQ5OWM5MWY5NmY4OWFiMjFjZDZiNGY5NmJlZjQwM2E4ZWM3OTE1Njk2ZDQ3NGEwYjZkOWI5ZTVkZGEyYWM4OGY1NGIzOTZmZTcxZTM3ZGYwN2EyZWI0YzA0ZWRmZjA4ZjRiMzM0NjZkMGRjZTQ0YTg2NTAzNWE5N2M1ODgzZjg3ZTY1MmY5YWI0MGUzMWFjMGJhNjJjN2ExYiIsIml2IjoiYTVhMDU4NDUzOTcwYzUwMmI2YzM2YmVmYTBjZWM0NGRiNGFiNmViZGEwNjA5MjRjIn0="
         }
     },
     "id": "c77q3EGPo",
-    "lastVisitedAssetId": "316bda73328ecb75b8a7988bf0d31beb",
+    "lastVisitedAssetId": "75ed041c422a8feff28fc6e98cfe2381",
     "assets": {
-        "c5899568bf21916eec7d091ed3ba66b1": {
-            "format": "jpg",
-            "id": "c5899568bf21916eec7d091ed3ba66b1",
-            "name": "1.jpg",
-            "path": "file:/Users/dokechin/work/kome/data/1.jpg",
-            "size": {
-                "width": 590,
-                "height": 590
-            },
-            "state": 2,
-            "type": 1
-        },
         "e2aabd391825e00f3b175f56a85a8818": {
             "format": "jpg",
             "id": "e2aabd391825e00f3b175f56a85a8818",
@@ -350,6 +338,66 @@
                 "height": 590
             },
             "state": 2,
+            "type": 1
+        },
+        "4b36de0fc38a58b8e42f601a55dd39ff": {
+            "format": "jpg",
+            "id": "4b36de0fc38a58b8e42f601a55dd39ff",
+            "name": "29.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/29.jpg",
+            "size": {
+                "width": 2894,
+                "height": 4093
+            },
+            "state": 2,
+            "type": 1
+        },
+        "86200a7234338fc896d120a411bd626b": {
+            "format": "jpg",
+            "id": "86200a7234338fc896d120a411bd626b",
+            "name": "27.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/27.jpg",
+            "size": {
+                "width": 590,
+                "height": 590
+            },
+            "state": 1,
+            "type": 1
+        },
+        "4e651683c9c38d43e226c172d9a4c568": {
+            "format": "jpg",
+            "id": "4e651683c9c38d43e226c172d9a4c568",
+            "name": "31.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/31.jpg",
+            "size": {
+                "width": 4128,
+                "height": 3096
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0d1050800dbb0f064f55a3acf6a366ea": {
+            "format": "jpg",
+            "id": "0d1050800dbb0f064f55a3acf6a366ea",
+            "name": "32.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/32.jpg",
+            "size": {
+                "width": 4128,
+                "height": 3096
+            },
+            "state": 1,
+            "type": 1
+        },
+        "8d1f6a9d08ca1dca22ecac1ee0b90007": {
+            "format": "jpg",
+            "id": "8d1f6a9d08ca1dca22ecac1ee0b90007",
+            "name": "28.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/28.jpg",
+            "size": {
+                "width": 590,
+                "height": 590
+            },
+            "state": 1,
             "type": 1
         }
     }

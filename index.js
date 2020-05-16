@@ -2,7 +2,7 @@ const fs = require('fs');
 var path = require('path');
 
 // アノテーションデータに含まれる全てのタグ（この順番にタグ番号を付与する）
-const tags = ['rice', 'broken rice'];
+const tags = ['rice', 'box'];
 const repo_name = 'kome';
 
 let counter = 0;
