@@ -5,7 +5,7 @@
         "name": "data",
         "providerType": "localFileSystemProxy",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMzkxZDExNGQ5YjBmZTJiZWUxMGMwZDZkZTNmN2I4ZjA2NTA1NjNlZDZlOTYxNmUzZDA0NDBlODY3YjNkMmVmNDIzYjQ2MGVlOWM2MDU0OTFlYjA0ODlkZGJlZjI1ODkwIiwiaXYiOiJiOWJiNTdkMTRlNTYxNGQ2NDE0ODI0ZmEyYzY1OTA2ZTQ4ZGZhNTcyNmNhMTk1YWUifQ=="
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMTM4MjRhMzI3MDI3Y2ZmYTRmMDAyY2ViZmI5MDcyM2E1OGE2M2FhOTIwZmZjNDFjYmI4ZTVhNmY2NjZmNDA3NDE5ZjczMmYzNGM2ZDI2YTZiZWFjYTZhOWNjZGMwNzgwIiwiaXYiOiI2YzQ0MGI2ZDZkNDI5MjhlM2UwYmZjMDk1ZDVlYmVkY2FiNjIzMGQ0NmMzYWNkYjIifQ=="
         },
         "id": "yKHhK5HN8"
     },
@@ -13,7 +13,7 @@
         "name": "kome",
         "providerType": "localFileSystemProxy",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiOTdhZmQwOGZiZGUzYjkzOTAzMmU5NmVjY2YxM2QxNDRjNGRiNmIxZTE0OGU4Mzk3MmMyYmFlMDhhMjAyMmM4YWJkMTIxYTlmMDY2NzJhOWEwZDFlYWI1MDkxZWVjNzI2IiwiaXYiOiI5MTAxMTlkNmEwMWU0MmEyOTZkODA0NjRiYWMzOTMyYTRjNmExOTA1NjFhYWQwYTEifQ=="
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYjg0MTJiMDE3MDIwMGIyNWFlZDE3MjhkZTY3MWE3ZjE0Y2FhZWNiNjRhOTJkMmU5MjlmZTVlOGFmOWE4NjlkZjM3NTNhZWJlNzY3NWI2OWUyMTIxOTBjY2IxMDVhYTAyIiwiaXYiOiI2ZmFmZTBjYTQ2ZGI1Y2U2NmVkMDA5MWU5YTc3ZDhjZWQyYjg1MWZiYTgxMjQ1NWUifQ=="
         },
         "id": "07mhxHP9Z"
     },
@@ -34,11 +34,11 @@
     "exportFormat": {
         "providerType": "tensorFlowPascalVOC",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZjZlZjI3NmE3MDljMWQxMzhlOTE1OWEwNTg0ZTQwZjgxMTU2YTQ1ZGNhNWEyN2YxOGY5ZmU4ODI4OTU3MjUzYTJjYjc4NTk3MjJjMGIzOTg3ZTUwMmI5MWYwN2VhODQzZGIxYjRjNjJhMjMwMzBlNDk3OGJjMTY3NGYwNmEzNTE1NjRkNTVmOGFlNWQ2Nzc1YzViZTczZjRiYjIyOTVkMSIsIml2IjoiYzBiMzFmYTdkMGVmNjRlNWJhNmIyOWFlM2FmMzIzNzgzYTg2YzliZDlmYjlhZjU5In0="
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiODM4Nzg0MWZlMWZjNmQ2YzEyMTM3YzYyMGE2NzcxOWRhYWRiMTJkMmU2Y2YwYjlmZjFjZThkZDYwYzc2YWUwZGRhMDI2Mjg5MjE5NjFkYmViNGFiYzM5ZWRlZTQxNTBkOWViNjkxM2M3NDNjNGEwYTY0YmJmYjkzYWJkMDY0MmQxOWIyYzU4NzFiNDU0OWVkZTE5NzBiOWYyNjc3YjYxZiIsIml2IjoiZDI2ZjlhMTY5OWZmYzEzNjU0ZjcwY2Y4YzJiZThkYWE5NTI4MzVlMTMzYWQ5ZmQ1In0="
         }
     },
     "id": "USJL8ifyR",
-    "lastVisitedAssetId": "a60ef560f2b29e3e704f6388cdc0a565",
+    "lastVisitedAssetId": "945d0c144c991e365f8731494bfdd817",
     "assets": {
         "c1243f20cc6e4355cf8d3ac406864ea2": {
             "format": "jpg",
@@ -328,109 +328,109 @@
             "state": 2,
             "type": 1
         },
-        "e7a1aa126a3037c3d3633d0ee539074b": {
+        "e7dcda9f1451a3b98580cce003fc90fe": {
             "format": "jpg",
-            "id": "e7a1aa126a3037c3d3633d0ee539074b",
-            "name": "202de13aab8b90439ee3caa9ec505697.jpg",
-            "path": "file:/Users/dokechin/work/kome/data/202de13aab8b90439ee3caa9ec505697.jpg",
+            "id": "e7dcda9f1451a3b98580cce003fc90fe",
+            "name": "2253aef2fb0c168f65c638a69ac96609.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/2253aef2fb0c168f65c638a69ac96609.jpg",
             "size": {
-                "width": 1376,
+                "width": 1032,
                 "height": 1032
             },
             "state": 2,
             "type": 1
         },
-        "1e3271ea46ed7854fa337649a8270507": {
+        "fe4d63e46d0f549e422abc0a04dc4170": {
             "format": "jpg",
-            "id": "1e3271ea46ed7854fa337649a8270507",
-            "name": "25155745410fc1855dd235e79322c9b0.jpg",
-            "path": "file:/Users/dokechin/work/kome/data/25155745410fc1855dd235e79322c9b0.jpg",
+            "id": "fe4d63e46d0f549e422abc0a04dc4170",
+            "name": "30a2f70634bfef7c52d6c32a35e87c22.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/30a2f70634bfef7c52d6c32a35e87c22.jpg",
             "size": {
-                "width": 1376,
+                "width": 1032,
                 "height": 1032
             },
             "state": 2,
             "type": 1
         },
-        "c5085ae83583e6a82581036b2c4a1880": {
+        "6b0131c402f130f6acc499c1d418c40b": {
             "format": "jpg",
-            "id": "c5085ae83583e6a82581036b2c4a1880",
-            "name": "73eb96081e5929cf846a8076fed9677f.jpg",
-            "path": "file:/Users/dokechin/work/kome/data/73eb96081e5929cf846a8076fed9677f.jpg",
+            "id": "6b0131c402f130f6acc499c1d418c40b",
+            "name": "35309cb85f750be9c65690f82602b14b.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/35309cb85f750be9c65690f82602b14b.jpg",
             "size": {
-                "width": 1376,
+                "width": 1032,
                 "height": 1032
             },
             "state": 2,
             "type": 1
         },
-        "f54c090a3fa86a8e91fe4a1afbbce9df": {
+        "1ef06e56133a7103dcddf5c3b2868a7a": {
             "format": "jpg",
-            "id": "f54c090a3fa86a8e91fe4a1afbbce9df",
-            "name": "8c72d15d59178a76c1a8a50b1ac9541c.jpg",
-            "path": "file:/Users/dokechin/work/kome/data/8c72d15d59178a76c1a8a50b1ac9541c.jpg",
+            "id": "1ef06e56133a7103dcddf5c3b2868a7a",
+            "name": "5694df40d2c1c895c8845b6786a1861c.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/5694df40d2c1c895c8845b6786a1861c.jpg",
             "size": {
-                "width": 1376,
+                "width": 1032,
                 "height": 1032
             },
             "state": 2,
             "type": 1
         },
-        "9619bde7bf7ea5a83ac7bd226da82c89": {
+        "f2853ad9b291015d783d0cecb51f9811": {
             "format": "jpg",
-            "id": "9619bde7bf7ea5a83ac7bd226da82c89",
-            "name": "b56017f715db4c9a09d233a2e0558e4d.jpg",
-            "path": "file:/Users/dokechin/work/kome/data/b56017f715db4c9a09d233a2e0558e4d.jpg",
+            "id": "f2853ad9b291015d783d0cecb51f9811",
+            "name": "86b41d1dbf12f00beff1bb98af3c34c6.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/86b41d1dbf12f00beff1bb98af3c34c6.jpg",
             "size": {
-                "width": 1376,
+                "width": 1032,
                 "height": 1032
             },
             "state": 2,
             "type": 1
         },
-        "95c6c73d1238ac22821f46ac676d4f7b": {
+        "0218f0bb4ca75527bf4952db28c0d098": {
             "format": "jpg",
-            "id": "95c6c73d1238ac22821f46ac676d4f7b",
-            "name": "cc9f576b013e0afdedf32ae8f311f71a.jpg",
-            "path": "file:/Users/dokechin/work/kome/data/cc9f576b013e0afdedf32ae8f311f71a.jpg",
+            "id": "0218f0bb4ca75527bf4952db28c0d098",
+            "name": "7423e9ce27b35c1a0417f54b64908d7f.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/7423e9ce27b35c1a0417f54b64908d7f.jpg",
             "size": {
-                "width": 1376,
+                "width": 1032,
                 "height": 1032
             },
             "state": 2,
             "type": 1
         },
-        "4ada877f337f8a378614ad7e7effe09e": {
+        "4d79d6cb71dcd3441c1ab3744bc52496": {
             "format": "jpg",
-            "id": "4ada877f337f8a378614ad7e7effe09e",
-            "name": "e866fb3d3489fe08ee3bf3efe39214b5.jpg",
-            "path": "file:/Users/dokechin/work/kome/data/e866fb3d3489fe08ee3bf3efe39214b5.jpg",
+            "id": "4d79d6cb71dcd3441c1ab3744bc52496",
+            "name": "6af656576304c71b315ad67512fd38fc.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/6af656576304c71b315ad67512fd38fc.jpg",
             "size": {
-                "width": 1376,
+                "width": 1032,
                 "height": 1032
             },
             "state": 2,
             "type": 1
         },
-        "dcf380adfe857d546b08a18efe9312b0": {
+        "20c35b6031a13da1d89f73a276441815": {
             "format": "jpg",
-            "id": "dcf380adfe857d546b08a18efe9312b0",
-            "name": "e316361c25cb85eed205737cfa0c0515.jpg",
-            "path": "file:/Users/dokechin/work/kome/data/e316361c25cb85eed205737cfa0c0515.jpg",
+            "id": "20c35b6031a13da1d89f73a276441815",
+            "name": "c0731f99405af18ed0b61bc04b2cc1cf.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/c0731f99405af18ed0b61bc04b2cc1cf.jpg",
             "size": {
-                "width": 1376,
+                "width": 1032,
                 "height": 1032
             },
             "state": 2,
             "type": 1
         },
-        "a60ef560f2b29e3e704f6388cdc0a565": {
+        "945d0c144c991e365f8731494bfdd817": {
             "format": "jpg",
-            "id": "a60ef560f2b29e3e704f6388cdc0a565",
-            "name": "f27e637a9d194ba69416e434e2dfa3b9.jpg",
-            "path": "file:/Users/dokechin/work/kome/data/f27e637a9d194ba69416e434e2dfa3b9.jpg",
+            "id": "945d0c144c991e365f8731494bfdd817",
+            "name": "ec9c41683575a171a849a244d916f0f2.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/ec9c41683575a171a849a244d916f0f2.jpg",
             "size": {
-                "width": 1376,
+                "width": 1032,
                 "height": 1032
             },
             "state": 2,
