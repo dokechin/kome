@@ -2,14 +2,14 @@ const fs = require('fs');
 var path = require('path');
 
 // アノテーションデータに含まれる全てのタグ（この順番にタグ番号を付与する）
-const tags = ['rice', 'box'];
+const tags = ['rice', 'broken rice', 'box'];
 const repo_name = 'kome';
 
 let counter = 0;
 const trainLists = [];
 const testLists = [];
 var lines = [];
-const files = fs.readdirSync(__dirname);
+const files = fs.readdirSync(__dirname + "/data");
 let j=0;
 for (let i = 0; i < files.length; i++) {
   // カレントディレクトリに存在する全ての JSON ファイルを取得する
