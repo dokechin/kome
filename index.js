@@ -16,8 +16,8 @@ for (let i = 0; i < files.length; i++) {
   if (!files[i].match(/\.json$/)) continue;
   if (files[i].match('package.json')) continue;
   if (files[i].match('package-lock.json')) continue;
-  console.log(files[i]);
-  const data = JSON.parse(fs.readFileSync(files[i], 'utf8'));
+  console.log("./data/" + files[i]);
+  const data = JSON.parse(fs.readFileSync("./data/" + files[i], 'utf8'));
   console.log(data.asset.name);
   data.regions.forEach((region) => {
     var columns = [];
