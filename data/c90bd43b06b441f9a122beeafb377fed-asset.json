@@ -171,7 +171,7 @@
             "id": "EVt3sh2wX",
             "type": "RECTANGLE",
             "tags": [
-                "broken rice"
+                "rice"
             ],
             "boundingBox": {
                 "height": 81.40524193548387,
@@ -791,7 +791,7 @@
             "id": "Zk85iZRAf",
             "type": "RECTANGLE",
             "tags": [
-                "broken rice"
+                "rice"
             ],
             "boundingBox": {
                 "height": 88.42741935483872,
@@ -3767,6 +3767,7 @@
             "id": "G5gYuKdBp",
             "type": "RECTANGLE",
             "tags": [
+                "rice",
                 "rice"
             ],
             "boundingBox": {

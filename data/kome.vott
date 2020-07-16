@@ -5,7 +5,7 @@
         "name": "data",
         "providerType": "localFileSystemProxy",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYmI4Y2Y5YWU1YjAyM2VjMTdmNWI0NjQ1NTFkYzE3ZGZjNThkNGZiY2I4MzBjOGRmMTdhMWEwZmFkNDM5OWE0MjI2ODNlYzA2NDIzZjYzYzQ1Yzk0OTJjNTc5ZjhkZGQ4IiwiaXYiOiI2NzEzOWExNWIyNjQ2ZGJmOTZjYTMyODQ3MGY1NWRkM2M1ZmFmMjM1YWVjNDZhNWUifQ=="
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZmExNGNhOTIwZGE3OGZhODAxNzQzNWViOGQ1ODZkMDBiYTgxMmJiMTg1ODBmM2IxZTdhZGEwMDU2ZDY3YzJhOTJlY2M2ZDQ2NzFhMjlkODg0NTM1ZWE1ZmVmMTE3MTYzIiwiaXYiOiI0OTI4YTQzZTNkOTA4MTU5MmRlYjE3N2NiOWNlZTdjNWM2NTFmYTM1YzdjMDM5NzQifQ=="
         },
         "id": "yKHhK5HN8"
     },
@@ -13,7 +13,7 @@
         "name": "data",
         "providerType": "localFileSystemProxy",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNTZjYTBlYjI5YjNlZWZlN2RmNzNmYTAwZGIxMmJlYWJjNzZiZDEwOTcyZjlkNDFmM2IyOThkYzgzMmI1MTFkNjNiMmZlMWM4OTIyOGMyYTc3ZDQ0MjYyMmNmOWUxMWI0IiwiaXYiOiI1YTliZDAyOGM4OTFhYjIxM2M1Njk2OGU0M2YxY2UyYTkyMDVhMjJhNmUyZjM3YzcifQ=="
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiOGRjMzlmODY0MTM0YzU3OTIyNDAwOTJhNmM4ODg5MzhhOTY1NGIyZTFhNmQyN2QxNDBlYWViYzFiOGNhMzZmYjM3OTlkZmI0NGMyOTVmNzQ1MThlNmFhN2Y3ZWY3OTVmIiwiaXYiOiI5MmZlYzBmNzk3NTI1YjFlNDRlODIxMzg1MjdiYWFlM2QzZTcwNTM5YTJhZDVjMWMifQ=="
         },
         "id": "yKHhK5HN8"
     },
@@ -26,10 +26,6 @@
             "color": "#5db300"
         },
         {
-            "name": "broken rice",
-            "color": "#e81123"
-        },
-        {
             "name": "rice",
             "color": "#6917aa"
         }
@@ -38,7 +34,7 @@
     "exportFormat": {
         "providerType": "vottJson",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNGM2MmZjMTdlMTc0MWFjYzA4NGI1MDA3ZDQ2NDA2MzYwNmQzYmJlMjM2YzIwZjIyYmRiZTA0Y2I5YjIyMGNhYiIsIml2IjoiY2Q4MGI3NzI1NWZlMDUxMTVhNWE1N2U4MmUwN2NlZGFhZmVjOTQ2NDM2OTNlYjBlIn0="
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMTg5M2I3ZGE4Y2M4OWY3NTAwNjk4ZTdkMjUxMjc2ZDQxOTExNjNlY2Y0Zjg0ODlhODM2YWFlODMxZjgwMzc0YiIsIml2IjoiNGY3NmZkOTU1ZDdkM2RiZjZmNzk4MzgwNGVkODM4ZTA3MTBkOTBlMTVlZThhYWE0In0="
         }
     },
     "id": "3R3Uiu8Kn",
