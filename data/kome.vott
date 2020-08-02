@@ -5,7 +5,7 @@
         "name": "data",
         "providerType": "localFileSystemProxy",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZmExNGNhOTIwZGE3OGZhODAxNzQzNWViOGQ1ODZkMDBiYTgxMmJiMTg1ODBmM2IxZTdhZGEwMDU2ZDY3YzJhOTJlY2M2ZDQ2NzFhMjlkODg0NTM1ZWE1ZmVmMTE3MTYzIiwiaXYiOiI0OTI4YTQzZTNkOTA4MTU5MmRlYjE3N2NiOWNlZTdjNWM2NTFmYTM1YzdjMDM5NzQifQ=="
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMzMzYzU1ZDgzMzc5MWFiOGRlZWY5NDFlNGI3OWE0MTVjNTY4NjcyMTJiMGNjMjBkYTc4MDJjMmUxMjI4MjgwOTAzMzhmOTJlMzgxNDg0ZGEyOGU2NmQ5ZmU3NDMzZDE2IiwiaXYiOiI1ZGZkNzk3NDNkZTM0ZTVmYjc1N2U0M2M5NDZlYjExNTk5NDNiNzg0NWMxNTAwMDkifQ=="
         },
         "id": "yKHhK5HN8"
     },
@@ -13,7 +13,7 @@
         "name": "data",
         "providerType": "localFileSystemProxy",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiOGRjMzlmODY0MTM0YzU3OTIyNDAwOTJhNmM4ODg5MzhhOTY1NGIyZTFhNmQyN2QxNDBlYWViYzFiOGNhMzZmYjM3OTlkZmI0NGMyOTVmNzQ1MThlNmFhN2Y3ZWY3OTVmIiwiaXYiOiI5MmZlYzBmNzk3NTI1YjFlNDRlODIxMzg1MjdiYWFlM2QzZTcwNTM5YTJhZDVjMWMifQ=="
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYTQ5MWU2OWRlNGZmMGZlMTlkOTFlMjNmMTcyMTIwZmVhYzE0YTg1MTk4ZjU5YTM5NTViNzIxMTgwY2ZjMDgxM2I0YTYzOTFmMWEwNzYyZDhlM2Y5NDY1N2M4ZTg5ZTMxIiwiaXYiOiI1N2QzYjg5ZmI2ZDgyZTkyMzc3MmJjZTU1ZmYzMGE4MWNjNmIzNDk1NjZhZDFkZWEifQ=="
         },
         "id": "yKHhK5HN8"
     },
@@ -28,17 +28,21 @@
         {
             "name": "rice",
             "color": "#6917aa"
+        },
+        {
+            "name": "broken rice",
+            "color": "#015cda"
         }
     ],
     "version": "2.0.0",
     "exportFormat": {
         "providerType": "vottJson",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMTg5M2I3ZGE4Y2M4OWY3NTAwNjk4ZTdkMjUxMjc2ZDQxOTExNjNlY2Y0Zjg0ODlhODM2YWFlODMxZjgwMzc0YiIsIml2IjoiNGY3NmZkOTU1ZDdkM2RiZjZmNzk4MzgwNGVkODM4ZTA3MTBkOTBlMTVlZThhYWE0In0="
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZTU1ZWZkMTgxMjg4YjRhY2ZjYjM1MzBkNDgyNjZkZThlZGE0MzRhYzYxZTE2ZDFlZDY1YjBmYTRkZmI0NmYzMiIsIml2IjoiNWZmMjE0ZWJhYmFmMDFjZWE0MmQ0YmE1Yzk3Y2UxOGJhN2IwNzA2MjQwY2UwYjgwIn0="
         }
     },
     "id": "3R3Uiu8Kn",
-    "lastVisitedAssetId": "c90bd43b06b441f9a122beeafb377fed",
+    "lastVisitedAssetId": "751408f7831f9b9d7644eb53f175f2b0",
     "assets": {
         "0a08139a570ab7d56060c3d972b8a5d5": {
             "format": "jpg",
@@ -49,7 +53,7 @@
                 "width": 4128,
                 "height": 3096
             },
-            "state": 1,
+            "state": 2,
             "type": 1
         },
         "1a48eef6231e2523450209bd3213edb7": {
@@ -61,7 +65,7 @@
                 "width": 4128,
                 "height": 3096
             },
-            "state": 1,
+            "state": 2,
             "type": 1
         },
         "2de04d4ff428248d227e17b02b983500": {
@@ -73,7 +77,7 @@
                 "width": 4128,
                 "height": 3096
             },
-            "state": 1,
+            "state": 2,
             "type": 1
         },
         "33ccad134f29522f7b3ef2f4b534254b": {
@@ -85,7 +89,7 @@
                 "width": 4128,
                 "height": 3096
             },
-            "state": 1,
+            "state": 2,
             "type": 1
         },
         "40f36a39ffa52447c9b148e865794089": {
@@ -97,7 +101,7 @@
                 "width": 4128,
                 "height": 3096
             },
-            "state": 1,
+            "state": 2,
             "type": 1
         },
         "4c96af7db275e5dcc4f98b8e65622f16": {
@@ -109,7 +113,7 @@
                 "width": 4128,
                 "height": 3096
             },
-            "state": 1,
+            "state": 2,
             "type": 1
         },
         "807ca8851ae4a5b784ae21025ffca6e4": {
@@ -121,7 +125,7 @@
                 "width": 4128,
                 "height": 3096
             },
-            "state": 1,
+            "state": 2,
             "type": 1
         },
         "9b74c05fb665e8c06c0ad193a82e7f89": {
@@ -133,19 +137,19 @@
                 "width": 4128,
                 "height": 3096
             },
-            "state": 1,
+            "state": 2,
             "type": 1
         },
         "9d0cc0e46ac8d0fa899328b5e6bfde18": {
             "format": "jpg",
             "id": "9d0cc0e46ac8d0fa899328b5e6bfde18",
-            "name": "abd3f5c778804125d8b63d0c8f291a8f.jpg",
-            "path": "file:/Users/dokechin/work/kome/data/abd3f5c778804125d8b63d0c8f291a8f.jpg",
+            "name": "e167ba2f928e2bf2893c4645626e0f7d.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/e167ba2f928e2bf2893c4645626e0f7d.jpg",
             "size": {
                 "width": 4128,
                 "height": 3096
             },
-            "state": 1,
+            "state": 2,
             "type": 1
         },
         "e30a3a5a037f5af5eb4ae6f0e715ca17": {
@@ -157,7 +161,7 @@
                 "width": 4128,
                 "height": 3096
             },
-            "state": 1,
+            "state": 2,
             "type": 1
         },
         "f4e506ab52333dcce468a10b1e0250f4": {
@@ -169,7 +173,7 @@
                 "width": 4128,
                 "height": 3096
             },
-            "state": 1,
+            "state": 2,
             "type": 1
         },
         "e13b5b9a9498d983a792581a2b1f2b87": {
@@ -288,6 +292,282 @@
             "size": {
                 "width": 4128,
                 "height": 3096
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3d1769f38847b9443b4ac80f53e40db5": {
+            "format": "jpg",
+            "id": "3d1769f38847b9443b4ac80f53e40db5",
+            "name": "29f657aaaf917cfede8ce651988b83f0.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/29f657aaaf917cfede8ce651988b83f0.jpg",
+            "size": {
+                "width": 4128,
+                "height": 3096
+            },
+            "state": 2,
+            "type": 1
+        },
+        "566954ed249cc7738ee8a7e6a01af21c": {
+            "format": "jpg",
+            "id": "566954ed249cc7738ee8a7e6a01af21c",
+            "name": "3074a690d324a80b64d930676039e08c.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/3074a690d324a80b64d930676039e08c.jpg",
+            "size": {
+                "width": 4128,
+                "height": 3096
+            },
+            "state": 2,
+            "type": 1
+        },
+        "07651d500a8621cb21438964a2a7b123": {
+            "format": "jpg",
+            "id": "07651d500a8621cb21438964a2a7b123",
+            "name": "0669a092c6d06f789abefd048156b162.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/0669a092c6d06f789abefd048156b162.jpg",
+            "size": {
+                "width": 4128,
+                "height": 3096
+            },
+            "state": 2,
+            "type": 1
+        },
+        "829c301b1c88085dc28aa7edf614d2c0": {
+            "format": "jpg",
+            "id": "829c301b1c88085dc28aa7edf614d2c0",
+            "name": "09c4bbaca7c707d6332ea59b544046b9.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/09c4bbaca7c707d6332ea59b544046b9.jpg",
+            "size": {
+                "width": 3264,
+                "height": 2448
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2b8e5e05eca31dd4c2b7035a53bddfc9": {
+            "format": "jpg",
+            "id": "2b8e5e05eca31dd4c2b7035a53bddfc9",
+            "name": "1592db8a2606cc79432a159998d7cff2.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/1592db8a2606cc79432a159998d7cff2.jpg",
+            "size": {
+                "width": 4128,
+                "height": 3096
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3e7400fad1dc77079396cdca9dec2d7d": {
+            "format": "jpg",
+            "id": "3e7400fad1dc77079396cdca9dec2d7d",
+            "name": "1cf681cd210ed549dc0d8d3cedf2aa8c.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/1cf681cd210ed549dc0d8d3cedf2aa8c.jpg",
+            "size": {
+                "width": 3264,
+                "height": 2448
+            },
+            "state": 2,
+            "type": 1
+        },
+        "03dcb84a28449f6766c854c432de4e98": {
+            "format": "jpg",
+            "id": "03dcb84a28449f6766c854c432de4e98",
+            "name": "3839beb6fb356cf4b21579765b2f5e96.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/3839beb6fb356cf4b21579765b2f5e96.jpg",
+            "size": {
+                "width": 2576,
+                "height": 1932
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ba01315ac6000959ee4b61a4d4932282": {
+            "format": "jpg",
+            "id": "ba01315ac6000959ee4b61a4d4932282",
+            "name": "cfd7490326b597b95a08ed7f808dbd0d.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/cfd7490326b597b95a08ed7f808dbd0d.jpg",
+            "size": {
+                "width": 4128,
+                "height": 3096
+            },
+            "state": 2,
+            "type": 1
+        },
+        "869011d3b4abcf2a0faad4bac333160e": {
+            "format": "jpg",
+            "id": "869011d3b4abcf2a0faad4bac333160e",
+            "name": "out.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/out.jpg",
+            "size": {
+                "width": 2894,
+                "height": 4093
+            },
+            "state": 1,
+            "type": 1
+        },
+        "587c9f990c7b9f698483bfeefff1eccc": {
+            "format": "jpg",
+            "id": "587c9f990c7b9f698483bfeefff1eccc",
+            "name": "f0750d344fbc1683b1f5f42d993353b4.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/f0750d344fbc1683b1f5f42d993353b4.jpg",
+            "size": {
+                "width": 4128,
+                "height": 3096
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ebb2e7e11b5e83c7de875e896713e9ef": {
+            "format": "jpg",
+            "id": "ebb2e7e11b5e83c7de875e896713e9ef",
+            "name": "a210fbfce53ee3b199f2b7af3212ec7a.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/a210fbfce53ee3b199f2b7af3212ec7a.jpg",
+            "size": {
+                "width": 4128,
+                "height": 3096
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f777a61c79cbcc0af0cc5975234e795a": {
+            "format": "jpg",
+            "id": "f777a61c79cbcc0af0cc5975234e795a",
+            "name": "5c2eb738c1ccea119f1acb991311306f.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/5c2eb738c1ccea119f1acb991311306f.jpg",
+            "size": {
+                "width": 4128,
+                "height": 3096
+            },
+            "state": 2,
+            "type": 1
+        },
+        "922c66e8d8ea9ab47c800aa155e84222": {
+            "format": "jpg",
+            "id": "922c66e8d8ea9ab47c800aa155e84222",
+            "name": "9508c92b4a94a4e87292c64f9ef8f120.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/9508c92b4a94a4e87292c64f9ef8f120.jpg",
+            "size": {
+                "width": 4128,
+                "height": 3096
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0cdb3418d2c239fcf4b2f9a9178341a8": {
+            "format": "jpg",
+            "id": "0cdb3418d2c239fcf4b2f9a9178341a8",
+            "name": "3c525c478aa291f2c4d0031087d3d93b.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/3c525c478aa291f2c4d0031087d3d93b.jpg",
+            "size": {
+                "width": 2576,
+                "height": 1932
+            },
+            "state": 2,
+            "type": 1
+        },
+        "65c499e5057831b56f527b876e298af4": {
+            "format": "jpg",
+            "id": "65c499e5057831b56f527b876e298af4",
+            "name": "3e9cd701451ec4b9bb27049ac077496b.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/3e9cd701451ec4b9bb27049ac077496b.jpg",
+            "size": {
+                "width": 4128,
+                "height": 3096
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cacad008292713d230d5a99fa473c6bd": {
+            "format": "jpg",
+            "id": "cacad008292713d230d5a99fa473c6bd",
+            "name": "40921da4a69f13d6793cc7aad082ead5.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/40921da4a69f13d6793cc7aad082ead5.jpg",
+            "size": {
+                "width": 3264,
+                "height": 2448
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8d7c97c54883829ca96bbdb1c7fc5d6f": {
+            "format": "jpg",
+            "id": "8d7c97c54883829ca96bbdb1c7fc5d6f",
+            "name": "426d69389b5aeff35d334432b7c11bf7.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/426d69389b5aeff35d334432b7c11bf7.jpg",
+            "size": {
+                "width": 4128,
+                "height": 3096
+            },
+            "state": 2,
+            "type": 1
+        },
+        "85732d5b24ebd02d2a0501ed4f53ddcb": {
+            "format": "jpg",
+            "id": "85732d5b24ebd02d2a0501ed4f53ddcb",
+            "name": "4bf8a36cc2136886c31890d1ce2e4c6c.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/4bf8a36cc2136886c31890d1ce2e4c6c.jpg",
+            "size": {
+                "width": 4128,
+                "height": 3096
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2ed297a7323c87535ba7a144f012e804": {
+            "format": "jpg",
+            "id": "2ed297a7323c87535ba7a144f012e804",
+            "name": "4cb129e23423e14a552eea654af00dc2.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/4cb129e23423e14a552eea654af00dc2.jpg",
+            "size": {
+                "width": 2576,
+                "height": 1932
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7660e3775beaa24d7cea148aa4249604": {
+            "format": "jpg",
+            "id": "7660e3775beaa24d7cea148aa4249604",
+            "name": "4fe1504321999e6edfa11f4d80fcfbab.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/4fe1504321999e6edfa11f4d80fcfbab.jpg",
+            "size": {
+                "width": 4128,
+                "height": 3096
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9bb50a643b6722f6f5cdc7b968bc3f2f": {
+            "format": "jpg",
+            "id": "9bb50a643b6722f6f5cdc7b968bc3f2f",
+            "name": "6bbafb326bd31ad3ca5857b88dc3808b.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/6bbafb326bd31ad3ca5857b88dc3808b.jpg",
+            "size": {
+                "width": 2576,
+                "height": 1932
+            },
+            "state": 2,
+            "type": 1
+        },
+        "284b0553610124c61f57b10e8c875112": {
+            "format": "jpg",
+            "id": "284b0553610124c61f57b10e8c875112",
+            "name": "a1227f721376af499da355d9fc63131a.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/a1227f721376af499da355d9fc63131a.jpg",
+            "size": {
+                "width": 4128,
+                "height": 3096
+            },
+            "state": 2,
+            "type": 1
+        },
+        "751408f7831f9b9d7644eb53f175f2b0": {
+            "format": "jpg",
+            "id": "751408f7831f9b9d7644eb53f175f2b0",
+            "name": "8954de3b841657c70878adb9421c14d8.jpg",
+            "path": "file:/Users/dokechin/work/kome/data/8954de3b841657c70878adb9421c14d8.jpg",
+            "size": {
+                "width": 2576,
+                "height": 1932
             },
             "state": 2,
             "type": 1
